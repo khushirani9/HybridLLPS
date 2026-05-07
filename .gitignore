@@ -1,0 +1,21 @@
+# Model weights - download from Zenodo
+models/best_model.pt
+models/*.pkl
+
+# Large data files
+features/
+data/raw/
+data/processed/
+data/alphafold_pdbs/
+data/orthologs/
+results/plots_300dpi/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
