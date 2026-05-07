@@ -1,0 +1,3 @@
+protein_id,sequence_length,llps_score,prediction,confidence
+TDP-43|Q13148,414,0.8102,LLPS+,HIGH
+Ovalbumin|P01012,386,0.2204,LLPS-,MEDIUM
