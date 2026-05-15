@@ -1,0 +1,8 @@
+{
+  "auc": 0.9760416666666666,
+  "ap": 0.9807775068668353,
+  "n": 62,
+  "n_pos": 32,
+  "n_neg": 30,
+  "note": "full 4-branch all real AF features"
+}
