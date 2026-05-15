@@ -1,0 +1,39 @@
+{
+  "TDP-43": {
+    "Human": 0.8103,
+    "Mouse": 0.8442,
+    "Rat": 0.8507,
+    "Zebrafish": 0.7076,
+    "Frog": 0.8285
+  },
+  "FUS": {
+    "Human": 0.9197,
+    "Mouse": 0.9245,
+    "Rat": 0.9249,
+    "Zebrafish": 0.9397,
+    "Frog": 0.9434,
+    "Fruitfly": 0.8709,
+    "Nematode": 0.0016
+  },
+  "hnRNPA1": {
+    "Human": 0.8996,
+    "Mouse": 0.9049,
+    "Rat": 0.8987,
+    "Zebrafish": 0.8941,
+    "Frog": 0.8275,
+    "Fruitfly": 0.901
+  },
+  "hnRNPA2B1": {
+    "Human": 0.935,
+    "Mouse": 0.9274,
+    "Rat": 0.9367,
+    "Frog": 0.904
+  },
+  "YBX1": {
+    "Human": 0.8568,
+    "Mouse": 0.8484,
+    "Rat": 0.8474,
+    "Zebrafish": 0.8374,
+    "Frog": 0.8286
+  }
+}
