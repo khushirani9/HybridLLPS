@@ -1,0 +1,8 @@
+{
+  "auc": 0.9708333333333332,
+  "ap": 0.9771127817812268,
+  "n": 62,
+  "n_pos": 32,
+  "n_neg": 30,
+  "note": "full 4-branch features including real AlphaFold PDB data"
+}
