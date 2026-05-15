@@ -1,0 +1,101 @@
+{
+  "n_fusions": 13,
+  "n_llps_pos": 8,
+  "n_llps_neg": 5,
+  "mean_llps_pos": 0.9275,
+  "mean_llps_neg": 0.737,
+  "auc": 0.925,
+  "individual": [
+    {
+      "name": "EWS-FLI1",
+      "label": 1,
+      "llps_score": 0.936573326587677,
+      "cancer": "Ewing Sarcoma",
+      "category": "FET-family"
+    },
+    {
+      "name": "EWS-ERG",
+      "label": 1,
+      "llps_score": 0.9278867840766907,
+      "cancer": "Ewing Sarcoma",
+      "category": "FET-family"
+    },
+    {
+      "name": "EWS-ATF1",
+      "label": 1,
+      "llps_score": 0.9416171312332153,
+      "cancer": "Clear Cell Sarcoma",
+      "category": "FET-family"
+    },
+    {
+      "name": "EWS-WT1",
+      "label": 1,
+      "llps_score": 0.91743004322052,
+      "cancer": "DSRCT",
+      "category": "FET-family"
+    },
+    {
+      "name": "FUS-CHOP",
+      "label": 1,
+      "llps_score": 0.9011329412460327,
+      "cancer": "Myxoid Liposarcoma",
+      "category": "FET-family"
+    },
+    {
+      "name": "FUS-ERG",
+      "label": 1,
+      "llps_score": 0.9300074577331543,
+      "cancer": "AML",
+      "category": "FET-family"
+    },
+    {
+      "name": "TAF15-NR4A3",
+      "label": 1,
+      "llps_score": 0.9157425165176392,
+      "cancer": "Extraskeletal Myxoid",
+      "category": "FET-family"
+    },
+    {
+      "name": "TAF15-CIC",
+      "label": 1,
+      "llps_score": 0.949615478515625,
+      "cancer": "Round Cell Sarcoma",
+      "category": "FET-family"
+    },
+    {
+      "name": "BCR-ABL1",
+      "label": 0,
+      "llps_score": 0.7092955708503723,
+      "cancer": "CML",
+      "category": "Kinase"
+    },
+    {
+      "name": "PML-RARA",
+      "label": 0,
+      "llps_score": 0.9259063601493835,
+      "cancer": "APL",
+      "category": "TF"
+    },
+    {
+      "name": "AML1-ETO",
+      "label": 0,
+      "llps_score": 0.8815392851829529,
+      "cancer": "AML t(8;21)",
+      "category": "TF"
+    },
+    {
+      "name": "MLL-AF4",
+      "label": 0,
+      "llps_score": 0.669800341129303,
+      "cancer": "ALL",
+      "category": "TF"
+    },
+    {
+      "name": "NPM1-ALK",
+      "label": 0,
+      "llps_score": 0.498544305562973,
+      "cancer": "ALCL",
+      "category": "Kinase"
+    }
+  ]
+}
