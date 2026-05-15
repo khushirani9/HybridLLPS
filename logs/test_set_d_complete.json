@@ -1,0 +1,31 @@
+{
+  "part_a_internal": {
+    "Folded LLPS+": {
+      "n": 36,
+      "mean": 0.5731,
+      "std": 0.3145
+    },
+    "Mixed LLPS+": {
+      "n": 34,
+      "mean": 0.7912,
+      "std": 0.193
+    },
+    "Disordered LLPS+": {
+      "n": 34,
+      "mean": 0.849,
+      "std": 0.176
+    },
+    "All LLPS-": {
+      "n": 303,
+      "mean": 0.1618,
+      "std": 0.2123
+    }
+  },
+  "part_b_disprot": {
+    "n": 5,
+    "mean_score": 0.3362,
+    "median_score": 0.3493,
+    "frac_predicted_llps": 0.4
+  },
+  "mannwhitney_folded_vs_neg_p": 5.220206302245848e-12
+}
