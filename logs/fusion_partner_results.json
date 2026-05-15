@@ -1,0 +1,62 @@
+{
+  "EWS-FLI1": {
+    "category": "FET-family",
+    "partner_A_id": "Q01844",
+    "partner_A_name": "EWSR1",
+    "partner_A_score": 0.9780480861663818,
+    "partner_A_in_dataset": true,
+    "partner_B_id": "Q01167",
+    "partner_B_name": "FLI1",
+    "partner_B_score": null,
+    "partner_B_in_dataset": false,
+    "fusion_score": 0.936573326587677
+  },
+  "FUS-CHOP": {
+    "category": "FET-family",
+    "partner_A_id": "P35637",
+    "partner_A_name": "FUS",
+    "partner_A_score": 0.971802294254303,
+    "partner_A_in_dataset": true,
+    "partner_B_id": "P35638",
+    "partner_B_name": "DDIT3",
+    "partner_B_score": null,
+    "partner_B_in_dataset": false,
+    "fusion_score": 0.9011329412460327
+  },
+  "TAF15-CIC": {
+    "category": "FET-family",
+    "partner_A_id": "Q92804",
+    "partner_A_name": "TAF15",
+    "partner_A_score": 0.9711493253707886,
+    "partner_A_in_dataset": true,
+    "partner_B_id": "O15198",
+    "partner_B_name": "CIC",
+    "partner_B_score": null,
+    "partner_B_in_dataset": false,
+    "fusion_score": 0.949615478515625
+  },
+  "BCR-ABL1": {
+    "category": "Signalling",
+    "partner_A_id": "P11274",
+    "partner_A_name": "BCR",
+    "partner_A_score": null,
+    "partner_A_in_dataset": false,
+    "partner_B_id": "P00519",
+    "partner_B_name": "ABL1",
+    "partner_B_score": 0.8741129636764526,
+    "partner_B_in_dataset": true,
+    "fusion_score": 0.7092955708503723
+  },
+  "EML4-ALK": {
+    "category": "Signalling",
+    "partner_A_id": "Q9HC35",
+    "partner_A_name": "EML4",
+    "partner_A_score": null,
+    "partner_A_in_dataset": false,
+    "partner_B_id": "Q9UM73",
+    "partner_B_name": "ALK",
+    "partner_B_score": null,
+    "partner_B_in_dataset": false,
+    "fusion_score": null
+  }
+}
