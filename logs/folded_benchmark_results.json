@@ -1,0 +1,43 @@
+{
+  "plddt_threshold": -0.1336179589897394,
+  "n_llps_pos": 104,
+  "n_folded": 35,
+  "tool_results": {
+    "HybridLLPS": {
+      "accuracy": 0.6,
+      "mean_score": 0.5633514523506165,
+      "median_score": 0.6916818618774414,
+      "n": 35
+    },
+    "our_score": {
+      "accuracy": 0.6,
+      "mean_score": 0.563351493142857,
+      "median_score": 0.69168186,
+      "n": 35
+    },
+    "psphunter": {
+      "accuracy": 0.42857142857142855,
+      "mean_score": 0.4434371428571429,
+      "median_score": 0.4015,
+      "n": 35
+    },
+    "catgranule": {
+      "accuracy": 0.9428571428571428,
+      "mean_score": 0.7275714285714285,
+      "median_score": 0.755,
+      "n": 35
+    },
+    "plaac": {
+      "accuracy": 0.14285714285714285,
+      "mean_score": 0.4587322966120643,
+      "median_score": 0.460064935064935,
+      "n": 35
+    },
+    "pscore": {
+      "accuracy": 0.0,
+      "mean_score": 0.028357853203070084,
+      "median_score": 0.0266257040450588,
+      "n": 35
+    }
+  }
+}
