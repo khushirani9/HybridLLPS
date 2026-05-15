@@ -1,0 +1,16 @@
+{
+  "model_3branch_clean": {
+    "test_auc": 0.917015740035542,
+    "test_ap": 0.857535455239598,
+    "val_auc": 0.9321510443199185,
+    "best_epoch": 7,
+    "n_features": 1351,
+    "n_params": 843649
+  },
+  "model_4branch": {
+    "test_auc": 0.9272658035034274,
+    "test_ap": 0.8591044893548395
+  },
+  "delta_auc": -0.010250063467885373,
+  "conclusion": "4-branch_better"
+}
