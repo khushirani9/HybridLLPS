@@ -1,0 +1,77 @@
+{
+  "analysis_1_correlation_removal": {
+    "threshold": 0.95,
+    "n_features_original": 1761,
+    "n_features_retained": 1753,
+    "n_features_removed": 8,
+    "correlation_stats": {
+      "mean_abs": 0.09521415137957429,
+      "median_abs": 0.06718298981739046,
+      "pairs_above_0.95": 9,
+      "pairs_above_0.90": 25
+    },
+    "block_retention_pct": {
+      "ESM-2": 100.0,
+      "AlphaFold": 79.2,
+      "Physicochemical": 93.6,
+      "Dipeptide": 100.0
+    },
+    "block_counts_kept": {
+      "ESM-2": 1280,
+      "AlphaFold": 19,
+      "Physicochemical": 44,
+      "Dipeptide": 410
+    },
+    "rf_full_auc": 0.9235846661589235,
+    "rf_reduced_auc": 0.9257743082000508,
+    "rf_full_ap": 0.8236531145530915,
+    "rf_reduced_ap": 0.8272778742636445,
+    "performance_delta": 0.00218964204112726,
+    "block_importance_pct": {
+      "ESM-2": 67.4,
+      "AlphaFold": 16.3,
+      "Physicochemical": 5.2,
+      "Dipeptide": 11.1
+    },
+    "nn_ablation_drop": {
+      "ESM-2": -0.06,
+      "AlphaFold": -0.009,
+      "Physicochemical": -0.021,
+      "Dipeptide": -0.007
+    }
+  },
+  "analysis_2_pca_per_block": {
+    "ESM-2": {
+      "n_features": 1280,
+      "intrinsic_dim_95": 101,
+      "redundancy_ratio": 12.7,
+      "top1_variance_pct": 10.9,
+      "n_for_50pct": 17,
+      "n_for_95pct": 101
+    },
+    "AlphaFold": {
+      "n_features": 24,
+      "intrinsic_dim_95": 9,
+      "redundancy_ratio": 2.7,
+      "top1_variance_pct": 61.9,
+      "n_for_50pct": 1,
+      "n_for_95pct": 9
+    },
+    "Physicochemical": {
+      "n_features": 47,
+      "intrinsic_dim_95": 24,
+      "redundancy_ratio": 2.0,
+      "top1_variance_pct": 16.6,
+      "n_for_50pct": 5,
+      "n_for_95pct": 24
+    },
+    "Dipeptide": {
+      "n_features": 410,
+      "intrinsic_dim_95": 101,
+      "redundancy_ratio": 4.1,
+      "top1_variance_pct": 2.6,
+      "n_for_50pct": 92,
+      "n_for_95pct": 101
+    }
+  }
+}
