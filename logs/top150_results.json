@@ -1,0 +1,24 @@
+{
+  "model_top150": {
+    "n_features": 150,
+    "test_auc": 0.9171744097486672,
+    "test_ap": 0.8249864842402937,
+    "val_auc": 0.9322147223637289,
+    "best_epoch": 1,
+    "n_params": 80769,
+    "block_breakdown": {
+      "esm2": 133,
+      "alphafold": 10,
+      "physicochemical": 4,
+      "dipeptide": 3
+    }
+  },
+  "model_4branch": {
+    "n_features": 1761,
+    "test_auc": 0.9272658035034274,
+    "test_ap": 0.8591044893548395
+  },
+  "delta_vs_full": -0.010091393754760203,
+  "elbow_predicted": 0.9287,
+  "conclusion": "Top-150 achieves 0.9172 vs full-model 0.9273 (-0.0101 with 91.5% fewer features)"
+}
