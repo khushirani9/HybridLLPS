@@ -1,0 +1,152 @@
+{
+  "n_total": 200,
+  "n_llps_pos": 0,
+  "pct_llps_pos": 0.0,
+  "n_novel_pos": 0,
+  "pct_novel_pos": 0.0,
+  "mean_score": 0.0,
+  "n_failed": 0,
+  "runtime_minutes": 26.4,
+  "top20": [
+    {
+      "uniprot_id": "A0A087X1C5",
+      "gene": "CYP2D7",
+      "score": 0.0,
+      "length": 515,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MQ03",
+      "gene": "CYSRT1",
+      "score": 0.0,
+      "length": 144,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A7XYQ1",
+      "gene": "SOBP",
+      "score": 0.0,
+      "length": 873,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8CG34",
+      "gene": "POM121C",
+      "score": 0.0,
+      "length": 1229,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K0Z3",
+      "gene": "WASHC1",
+      "score": 0.0,
+      "length": 465,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K2U0",
+      "gene": "A2ML1",
+      "score": 0.0,
+      "length": 1454,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K4G0",
+      "gene": "CD300LB",
+      "score": 0.0,
+      "length": 201,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K7I4",
+      "gene": "CLCA1",
+      "score": 0.0,
+      "length": 914,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K830",
+      "gene": "POU2AF3",
+      "score": 0.0,
+      "length": 251,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K8P3",
+      "gene": "SFI1",
+      "score": 0.0,
+      "length": 1242,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8K8V0",
+      "gene": "ZNF785",
+      "score": 0.0,
+      "length": 405,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MPY1",
+      "gene": "GABRR3",
+      "score": 0.0,
+      "length": 467,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MQ27",
+      "gene": "NEURL1B",
+      "score": 0.0,
+      "length": 555,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A0A096LP01",
+      "gene": "SMIM26",
+      "score": 0.0,
+      "length": 95,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MT69",
+      "gene": "CENPX",
+      "score": 0.0,
+      "length": 81,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MTA8",
+      "gene": "CIMIP2B",
+      "score": 0.0,
+      "length": 275,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MTJ3",
+      "gene": "GNAT3",
+      "score": 0.0,
+      "length": 354,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MTJ6",
+      "gene": "FOXI3",
+      "score": 0.0,
+      "length": 420,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MTQ0",
+      "gene": "NOTO",
+      "score": 0.0,
+      "length": 251,
+      "in_training": "novel"
+    },
+    {
+      "uniprot_id": "A8MTZ0",
+      "gene": "BBIP1",
+      "score": 0.0,
+      "length": 92,
+      "in_training": "train"
+    }
+  ]
+}
